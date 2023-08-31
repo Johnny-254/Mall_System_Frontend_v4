@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+  </head>
+  <body class="light-theme">
+    <div class="experience">
+      <canvas class="experience-canvas"></canvas>
+    </div>
+    <div class="toggle-bar">
+      <div class="sun-wrapper">
+        <img
+          width="20"
+          height="20"
+          src="https://img.icons8.com/android/24/sun.png"
+          alt="sun"
+        />
+      </div>
+      <button class="toggle-button">
+        <div class="toggle-circle"></div>
+      </button>
+      <div class="moon-wrapper">
+        <img
+          width="20"
+          height="20"
+          src="https://img.icons8.com/ios-glyphs/30/moon-symbol.png"
+          alt="moon-symbol"
+        />
+      </div>
+    </div>
+    <div class="page" asscroll-container>
+      <div id="root"></div>
+    </div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

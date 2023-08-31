@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="110 147 671 628" width="561px" height="481px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="562" y1="543" x2="572" y2="543" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="558" y1="192" x2="568" y2="192" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="572" y1="543" x2="558" y2="192" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="569.5" y1="543" x2="565.96446609407" y2="546.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="569.5" y1="543" x2="565.96446609407" y2="539.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="563" y1="192" x2="559.46446609407" y2="195.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="563" y1="192" x2="559.46446609407" y2="188.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="479" y1="563" x2="469" y2="563" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="218" y1="256" x2="208" y2="256" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="469" y1="563" x2="218" y2="256" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="471.5" y1="563" x2="475.03553390593" y2="566.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="471.5" y1="563" x2="475.03553390593" y2="559.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="213" y1="256" x2="216.53553390593" y2="259.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="213" y1="256" x2="216.53553390593" y2="252.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="88" height="20" x="568" y="162" style="fill:#007;stroke:black;"/>
+   <text width="88" height="20" x="573" y="176" style="fill:#fff;" font-family="Arial" font-size="16px"> roles</text>
+   <rect width="88" height="20" x="568" y="182" style="fill:#aea;stroke:black;"/>
+   <text width="88" height="20" x="573" y="196" style="fill:black;" font-family="Arial" font-size="16px">role_id</text>
+   <rect width="88" height="20" x="568" y="202" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="573" y="216" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="88" height="20" x="568" y="222" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="573" y="236" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="88" height="20" x="568" y="242" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="573" y="256" style="fill:black;" font-family="Arial" font-size="16px">createdAt</text>
+   <rect width="88" height="20" x="568" y="262" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="573" y="276" style="fill:black;" font-family="Arial" font-size="16px">updatedAt</text>
+   <rect width="83" height="20" x="125" y="226" style="fill:#007;stroke:black;"/>
+   <text width="83" height="20" x="130" y="240" style="fill:#fff;" font-family="Arial" font-size="16px"> users</text>
+   <rect width="83" height="20" x="125" y="246" style="fill:#aea;stroke:black;"/>
+   <text width="83" height="20" x="130" y="260" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="83" height="20" x="125" y="266" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="130" y="280" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+   <rect width="83" height="20" x="125" y="286" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="130" y="300" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="83" height="20" x="125" y="306" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="130" y="320" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="83" height="20" x="125" y="326" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="130" y="340" style="fill:black;" font-family="Arial" font-size="16px">createdAt</text>
+   <rect width="83" height="20" x="125" y="346" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="130" y="360" style="fill:black;" font-family="Arial" font-size="16px">updatedAt</text>
+   <rect width="83" height="20" x="479" y="513" style="fill:#007;stroke:black;"/>
+   <text width="83" height="20" x="484" y="527" style="fill:#fff;" font-family="Arial" font-size="16px"> user_roles</text>
+   <rect width="83" height="20" x="479" y="533" style="fill:#aea;stroke:black;"/>
+   <text width="83" height="20" x="484" y="547" style="fill:black;" font-family="Arial" font-size="16px">role_id</text>
+   <rect width="83" height="20" x="479" y="553" style="fill:#aea;stroke:black;"/>
+   <text width="83" height="20" x="484" y="567" style="fill:black;" font-family="Arial" font-size="16px">user_id</text>
+   <rect width="83" height="20" x="479" y="573" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="484" y="587" style="fill:black;" font-family="Arial" font-size="16px">createdAt</text>
+   <rect width="83" height="20" x="479" y="593" style="fill:none;stroke:black;"/>
+   <text width="83" height="20" x="484" y="607" style="fill:black;" font-family="Arial" font-size="16px">updatedAt</text>
+</svg>
